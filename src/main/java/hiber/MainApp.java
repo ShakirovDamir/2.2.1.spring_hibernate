@@ -33,7 +33,6 @@ public class MainApp {
          System.out.println();
          System.out.println(userService.getUserCar(model,series));
       }
-
       context.close();
    }
 }
